@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="text_ingridients">Ingredients</string>
+    <string name="text_Intructions">Instructions</string>
+</resources>
